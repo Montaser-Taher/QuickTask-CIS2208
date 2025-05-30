@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quick Task</string>
+    <string name="flag_icon">Flag icon</string>
+    <string name="mark_as_complete">Mark as completed</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="hint_title">Task Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_due_date">Due Date (e.g. 2025-05-30)</string>
+    <string name="hint_time">Time (e.g. 14:00)</string>
+    <string name="hint_tag">Tag (optional)</string>
+    <string name="hint_note">Note (optional)</string>
+    <string name="hint_list">List (e.g. Home, Work)</string>
+    <string name="flag_reminder">Flag this reminder</string>
+    <string name="mark_completed">Mark as completed</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="complete_checkbox">Mark as completed</string>
+    <string name="select_list_prompt">Select list</string>
+    <string name="title">Title</string>
+    <string name="due_date">Due: 2025-12-31</string>
+    <string name="list_filter_spinner">Filter task lists</string>
+    <string name="tab_layout">Task category tabs</string>
+    <string name="task_list">List of tasks</string>
+    <string name="add_task">Add new task</string>
+    <string name="select_list">Select List</string>
+
+    <string name="add_list">Add List</string>
+    <string name="add_reminder">Add Reminder</string>
+
+
+
+
+
+
+</resources>
